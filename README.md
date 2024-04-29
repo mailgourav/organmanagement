@@ -11,7 +11,6 @@ organ management app develped using reactjs.
 
 ## Silent features:
 
-* User can 
-* User can 
-* User can 
+* User can login site with mail or wallet.
+* User can arrange hospitals.
 
